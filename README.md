@@ -2,7 +2,7 @@
 
 ---
 
-# 💻 Hi, I'm Umidjon Tuxtayev
+## 💻 Hi, I'm Umidjon Tuxtayev
 
 ### 🚀 Full-Stack Developer (Backend-oriented)
 
@@ -52,7 +52,7 @@ Frontend ▰▰▰▰▰▰▰ 40%
 
 ---
 
-### 📜 About Me
+## 📜 About Me
 
 Full-Stack developer who enjoys building real products.  
 My strength is backend logic, API design, and database architecture,  
