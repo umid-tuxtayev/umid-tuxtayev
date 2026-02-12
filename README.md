@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋 I'm Umidjon Tuxtayev
+💻 Backend Developer (Node.js)
 
-<!--
-**umid-tuxtayev/umid-tuxtayev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- Backend: Node.js, Express.js, Nest.js
+- REST API, JWT, RBAC, Validation
+- PostgreSQL, MongoDB
+- Interested in scalable backend architecture
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+**Backend:** Node.js, Express.js, Nest.js  
+**Auth:** JWT, Refresh Token, 2FA (if available)  
+**DB:** PostgreSQL, MongoDB  
+**Tools:** Git, Docker (basic), Linux, Nginx  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+- Auth API (JWT + Refresh + 2FA)
+- Cafe Management API (Orders + Admin + DB)
+
+## 📫 Contact
+Email: umidtuxtayev84@gmail.com  
+Location: Samarkand, Uzbekistan
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=umid-tuxtayev&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umid-tuxtayev&layout=compact)
