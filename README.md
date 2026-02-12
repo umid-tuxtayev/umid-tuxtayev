@@ -2,7 +2,7 @@
 
 ---
 
-# 💻 Hi there, I'm Umidjon | Backend Developer
+# 💻 Hi there, I'm Umidjon | I'm Developer !
 
 - ✍ You can find my projects below.  
 - 🌱 Currently improving **Node.js, Nest.js & Backend Architecture**  
