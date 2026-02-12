@@ -37,6 +37,10 @@
 ![Backend](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=3A9CDF&size=24&lines=Backend+Focus:+60%25)
 ![Frontend](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=22c55e&size=24&lines=Frontend+Focus:+40%25)
 
+![Backend](https://img.shields.io/badge/Backend-60%25-blue?style=for-the-badge)
+![Frontend](https://img.shields.io/badge/Frontend-40%25-green?style=for-the-badge)
+
+
 
 
 ---
