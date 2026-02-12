@@ -40,6 +40,10 @@
 ![Backend](https://img.shields.io/badge/Backend-60%25-blue?style=for-the-badge)
 ![Frontend](https://img.shields.io/badge/Frontend-40%25-green?style=for-the-badge)
 
+![Backend](https://readme-typing-svg.herokuapp.com?color=3A9CDF&size=22&lines=Backend+Focus:+60%25)
+![Frontend](https://readme-typing-svg.herokuapp.com?color=22c55e&size=22&lines=Frontend+Focus:+40%25)
+
+
 
 
 
