@@ -1,30 +1,39 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=3A9CDF&size=30&weight=700&lines=Hi+there,+I'm+Umidjon+Tuxtayev;Backend+Developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=3A9CDF&size=28&lines=Hi+there,+I'm+Umidjon;Full-Stack+Developer)
 
 ---
 
-# 💻 Hi there, I'm Umidjon | Backend Developer !
+# 💻 Hi, I'm Umidjon Tuxtayev
 
-- ✍ You can find my projects below.  
-- 🌱 Currently improving **Node.js, Nest.js & Backend Architecture**  
-- 👯 Open to collaborate on backend & API projects  
-- 🚀 Passionate about building scalable systems
+### 🚀 Full-Stack Developer (Backend-oriented)
 
----
-
-### 📊 Technology Distribution Analysis
-
-| Category | Total | Notable Technologies |
-|--------|------|------------------|
-| Backend | 3 | Node.js, Express.js, Nest.js |
-| Databases | 2 | PostgreSQL, MongoDB |
-| Auth | 3 | JWT, Refresh Tokens, 2FA |
-| API Tools | 2 | Swagger, Postman |
-| DevOps | 2 | Docker, Nginx |
-| Languages | 2 | JavaScript, TypeScript |
+- 🔭 Building APIs & Web Applications  
+- 🌱 Improving Node.js, Nest.js & React skills  
+- 👯 Open to backend or frontend collaboration  
+- ⚡ Focused on real-world scalable systems  
 
 ---
 
-### 📈 Contribution Graph
+## 🛠 Tech Stack
+
+### Backend
+Node.js, Express.js, Nest.js  
+JWT, RBAC, 2FA  
+PostgreSQL, MongoDB  
+Swagger, REST APIs  
+
+### Frontend
+React.js  
+Next.js  
+Tailwind CSS  
+
+### Tools
+Git, Docker (basic)  
+Linux, Nginx  
+VPS/Cloud Deploy  
+
+---
+
+### 📊 Contribution Graph
 
 ![3D Graph](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-night-green.svg)
 
@@ -38,11 +47,8 @@
 
 ## 📜 About Me
 
-<p align="center">
-Backend developer focused on Node.js and scalable systems.  
-I enjoy turning complex logic into reliable APIs.  
+Full-Stack developer who enjoys building real products.  
+Backend logic, API design, and database architecture are my strong sides,  
+but I can also build clean frontend interfaces.
 
-For me, programming is about solving real problems and building useful systems.
-</p>
-
----
+I focus on solving real problems, not just writing code.
