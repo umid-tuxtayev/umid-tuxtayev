@@ -41,7 +41,8 @@ Frontend ▰▰▰▰▰▰▰ 40%
 
 ### 📈 Contribution Graph
 
-![3D Graph](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-night-green.svg)
+![Metrics](./github-metrics.svg)
+
 
 ---
 
