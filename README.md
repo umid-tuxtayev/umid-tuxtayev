@@ -13,7 +13,7 @@
 
 ---
 
-## 📊 Technology Distribution Analysis
+### 📊 Technology Distribution Analysis
 
 | Category | Technologies |
 |--------|-------------|
@@ -32,14 +32,14 @@
 
 ---
 
-## 📊 Technology Distribution
+### 📊 Technology Distribution
 
 Backend  ▰▰▰▰▰▰▰▰▰▰ 60%  
 Frontend ▰▰▰▰▰▰▰ 40%
 
 ---
 
-## 📈 Contribution Graph
+### 📈 Contribution Graph
 ![3D Graph](./profile-3d-contrib/profile-night-green.svg)
 
 
@@ -52,7 +52,7 @@ Frontend ▰▰▰▰▰▰▰ 40%
 
 ---
 
-## 📜 About Me
+### 📜 About Me
 
 Full-Stack developer who enjoys building real products.  
 My strength is backend logic, API design, and database architecture,  
@@ -62,7 +62,7 @@ I focus on solving real problems, not just writing code.
 
 ---
 
-## 📫 Contact
+### 📫 Contact
 
 📧 umidtuxtayev84@gmail.com  
 📍 Samarkand, Uzbekistan
