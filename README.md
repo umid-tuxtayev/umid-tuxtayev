@@ -23,6 +23,9 @@ Location: Samarkand, Uzbekistan
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=umid-tuxtayev&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umid-tuxtayev&layout=compact&theme=dark)
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=umid-tuxtayev&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=umid-tuxtayev&layout=compact&theme=dark)
+
 
