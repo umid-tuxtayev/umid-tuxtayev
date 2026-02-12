@@ -29,5 +29,8 @@ Location: Samarkand, Uzbekistan
 ## 📈 GitHub Metrics
 ![Metrics](./github-metrics.svg)
 
+## 🐍 Contribution Snake
+
+![Snake](https://raw.githubusercontent.com/umid-tuxtayev/umid-tuxtayev/output/github-contribution-grid-snake-dark.svg)
 
 
