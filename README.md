@@ -6,44 +6,36 @@
 
 ### 🚀 Full-Stack Developer (Backend-oriented)
 
-- 🔭 Building APIs & Web Applications  
-- 🌱 Improving Node.js, Nest.js & React skills  
-- 👯 Open to backend or frontend collaboration  
+- 🔭 Building APIs & modern web applications  
+- 🌱 Improving Node.js, Nest.js, React & Next.js  
+- 👯 Open to backend & frontend collaboration  
 - ⚡ Focused on real-world scalable systems  
-
----
-
-## 🛠 Tech Stack
-
-### Backend
-Node.js, Express.js, Nest.js  
-JWT, RBAC, 2FA  
-PostgreSQL, MongoDB  
-Swagger, REST APIs  
-
-### Frontend
-React.js  
-Next.js  
-Tailwind CSS  
-
-### Tools
-Git, Docker (basic)  
-Linux, Nginx  
-VPS/Cloud Deploy  
 
 ---
 
 ## 📊 Technology Distribution Analysis
 
-| Category | Total | Notable Technologies |
-|--------|------|------------------|
-| Backend Development | 3 | Node.js, Express.js, Nest.js |
-| Frontend Development | 2 | React.js, Next.js |
-| Databases | 2 | PostgreSQL, MongoDB |
-| Authentication | 3 | JWT, Refresh Tokens, 2FA |
-| API Tools | 2 | Swagger, Postman |
-| DevOps | 2 | Docker, Nginx |
-| Languages | 2 | JavaScript, TypeScript |
+| Category | Technologies |
+|--------|-------------|
+| **Frontend Development** | React.js, Next.js |
+| **Mobile Basics** | React Native (basic) |
+| **Testing** | Jest (basic), ESLint |
+| **UI & Animation** | Framer Motion, Three.js (basic) |
+| **Databases** | PostgreSQL, MongoDB, Firebase |
+| **Authentication** | JWT, OAuth |
+| **API Tools** | Postman, Swagger |
+| **Performance** | Webpack (basic) |
+| **Containerization** | Docker (basic) |
+| **CI/CD Basics** | GitHub Actions |
+| **UI Systems** | Tailwind CSS, Shadcn UI |
+| **State Management** | Redux, Context API |
+
+---
+
+## 📊 Technology Distribution
+
+![Backend](https://img.shields.io/badge/Backend-60%25-blue)
+![Frontend](https://img.shields.io/badge/Frontend-40%25-green)
 
 ---
 
@@ -62,7 +54,14 @@ VPS/Cloud Deploy
 ## 📜 About Me
 
 Full-Stack developer who enjoys building real products.  
-Backend logic, API design, and database architecture are my strong sides,  
-but I can also build clean frontend interfaces.
+My strength is backend logic, API design, and database architecture,  
+but I also build clean and responsive frontend interfaces.
 
 I focus on solving real problems, not just writing code.
+
+---
+
+## 📫 Contact
+
+📧 umidtuxtayev84@gmail.com  
+📍 Samarkand, Uzbekistan
