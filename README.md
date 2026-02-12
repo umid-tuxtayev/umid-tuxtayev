@@ -33,7 +33,21 @@ VPS/Cloud Deploy
 
 ---
 
-### 📊 Contribution Graph
+## 📊 Technology Distribution Analysis
+
+| Category | Total | Notable Technologies |
+|--------|------|------------------|
+| Backend Development | 3 | Node.js, Express.js, Nest.js |
+| Frontend Development | 2 | React.js, Next.js |
+| Databases | 2 | PostgreSQL, MongoDB |
+| Authentication | 3 | JWT, Refresh Tokens, 2FA |
+| API Tools | 2 | Swagger, Postman |
+| DevOps | 2 | Docker, Nginx |
+| Languages | 2 | JavaScript, TypeScript |
+
+---
+
+### 📈 Contribution Graph
 
 ![3D Graph](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-night-green.svg)
 
