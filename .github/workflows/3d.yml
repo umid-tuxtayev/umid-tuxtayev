@@ -12,11 +12,14 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
       - name: Generate 3D graph
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        with:
-          github_token: ${{ github.token }}
-          user_name: umid-tuxtayev
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          USERNAME: umid-tuxtayev
 
       - name: Commit & Push
         run: |
