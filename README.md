@@ -34,8 +34,9 @@
 
 ### 📊 Technology Distribution
 
-Backend  ▰▰▰▰▰▰▰▰▰▰ 60%  
-Frontend ▰▰▰▰▰▰▰ 40%
+![Backend](https://img.shields.io/badge/Backend-60%25-blue)
+
+![Frontend](https://img.shields.io/badge/Frontend-40%25-green)
 
 ---
 
