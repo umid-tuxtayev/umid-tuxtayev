@@ -34,9 +34,9 @@
 
 ### 📊 Technology Distribution
 
-![Backend](https://img.shields.io/badge/Backend-60%25-blue)
+![Backend ▰▰▰▰▰▰▰▰▰▰ ](https://img.shields.io/badge/Backend-60%25-blue)
 
-![Frontend](https://img.shields.io/badge/Frontend-40%25-green)
+![Frontend ▰▰▰▰▰▰▰ ](https://img.shields.io/badge/Frontend-40%25-green)
 
 ---
 
