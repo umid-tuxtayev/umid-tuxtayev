@@ -1,10 +1,10 @@
 ![Profile views](https://komarev.com/ghpvc/?username=umid-tuxtayev&color=blue)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=3A9CDF&size=28&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Umidjon;Full-Stack+Developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=3A9CDF&size=28&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Umid;Full-Stack+Developer)
 
 ---
 
-# 👋 Hi, I'm Umidjon Tuxtayev
+# 👋 Hi, I'm Umid Tuxtayev
 
 🚀 **Full-Stack Developer (Backend-oriented)**  
 Building scalable APIs and modern web applications.
