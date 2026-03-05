@@ -22,21 +22,9 @@ Building scalable APIs and modern web applications.
 
 ---
 
-# 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=umid-tuxtayev&show_icons=true&theme=tokyonight&hide_border=true)
-
----
-
 # 🔥 Commit Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=umid-tuxtayev&theme=tokyonight&hide_border=true)
-
----
-
-# 🏆 GitHub Achievements
-
-![trophy](https://github-profile-trophy.vercel.app/?username=umid-tuxtayev&theme=tokyonight&no-frame=true&row=1&column=6)
 
 ---
 
