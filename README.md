@@ -22,6 +22,14 @@ Building scalable APIs and modern web applications.
 
 ---
 
+# 📈 Activity & Summary
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=umid-tuxtayev&theme=tokyo-night&hide_border=true)
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=umid-tuxtayev&theme=tokyonight)
+
+---
+
 # 🔥 Commit Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=umid-tuxtayev&theme=tokyonight&hide_border=true)
