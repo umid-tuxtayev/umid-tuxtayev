@@ -31,3 +31,4 @@ jobs:
           plugin_habits_charts: yes
 
           plugin_stars: yes
+          plugin_stargazers: yes
