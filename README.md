@@ -18,7 +18,7 @@ Building scalable APIs and modern web applications.
 
 # 🚀 Tech Stack
 
-![Tech Stack](https://skillicons.dev/icons?i=nodejs,nestjs,react,nextjs,ts,js,postgres,mongodb,firebase,docker,git,linux,tailwind)
+![Tech Stack](https://skillicons.dev/icons?i=nodejs,nestjs,express.js,react,nextjs,ts,js,postgres,mongodb,firebase,docker,git,linux,tailwind)
 
 ---
 
